@@ -1,0 +1,7 @@
+{
+  "name": "PainPoint - Market Research Tool",
+  "description": "Validate market problems and find real pain points for your next business idea using AI-driven research.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
